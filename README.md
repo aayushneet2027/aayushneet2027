@@ -2,7 +2,7 @@
 
 I'm aayush, a game developer, game modder and a tech enthusiast based in India.
 
-I started modding games since i was 9y/o, since then it bacame my hobby and integrated in my real life.
+I started modding games since i was 9y/o, since then it bacame my hobby.
 
 I design and build whatever i can imagine.
 
