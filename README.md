@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hey there 👋
 
+I'm aayush, a game developer, game modder and a tech enthusiast based in India
 <!--
 **aayushneet2027/aayushneet2027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
